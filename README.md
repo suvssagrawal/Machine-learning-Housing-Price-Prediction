@@ -60,7 +60,7 @@ Location (one-hot encoded)
 
 The trained model is saved using pickle and loaded by the Flask backend.
 
--- Backend (Flask API)
+🌐 Backend (Flask API)
 
 The backend exposes the following endpoints:
 
@@ -90,7 +90,7 @@ Response:
   "estimated_price": 75.34
 }
 
--- Frontend
+🎨 Frontend
 
 The frontend is built using:
 
@@ -147,7 +147,7 @@ jQuery
 
 Git & GitHub
 
---Learning Outcomes
+📚 Learning Outcomes
 
 End-to-end ML project workflow
 
@@ -163,7 +163,7 @@ Handling CORS and browser security issues
 
 Version control with Git & GitHub
 
---Future Improvements
+🚀 Future Improvements
 
 Serve frontend directly via Flask templates
 
